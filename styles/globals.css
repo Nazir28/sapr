@@ -1,0 +1,26 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  color: #181818;
+  font-family: "Lato", sans-serif !important;
+  font-size: 14px;
+  background-color: white !important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
